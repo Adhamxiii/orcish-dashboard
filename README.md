@@ -66,7 +66,7 @@ Contributions are welcome! Please open issues or submit pull requests for bug fi
 
 ## Live Demo
 
-You can access the live version of animagic [here](https://doit-khaki.vercel.app/).
+You can access the live version of animagic [here](https://orcish-dashboard-pi.vercel.app/).
 
 ### Contact Me
 
